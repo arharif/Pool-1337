@@ -1,0 +1,6 @@
+Credentials cache: API:92BCC65F-3340-4836-BCD1-3E09722B0FDC
+        Principal: arharif@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 14:03:11 2021  Aug  3 00:03:11 2021  krbtgt/1337.MA@1337.MA
+Aug  2 14:03:13 2021  Aug  3 00:03:11 2021  HTTP/iscsi.1337.ma@1337.MA
